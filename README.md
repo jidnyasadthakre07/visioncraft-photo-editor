@@ -4,6 +4,16 @@
 
 ---
 
+## 🌐 Live Application
+
+VisionCraft is deployed on Hugging Face Spaces and can be accessed here:
+
+👉 **Live Demo:** https://huggingface.co/spaces/Jidnyasa11/visioncraft-photo-editor
+
+The application allows users to upload images, apply various image processing techniques, preview the results instantly, and download the edited output.
+
+---
+
 ## 🚀 Project Overview
 
 VisionCraft is a feature-rich photo editing application that combines the power of OpenCV with the simplicity of Streamlit. Users can upload images, perform real-time enhancements, apply artistic effects, and download the edited image instantly.
