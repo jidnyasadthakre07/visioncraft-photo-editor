@@ -96,7 +96,7 @@ VisionCraft/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/visioncraft-photo-editor.git
+git clone https://github.com/jidnyasadthakre07/visioncraft-photo-editor.git
 
 cd visioncraft-photo-editor
 ```
@@ -282,22 +282,10 @@ git push origin feature-name
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Jidnyasa Thakre**
 
-Python Developer | Computer Vision Enthusiast
+GitHub: https://github.com/jidnyasadthakre07
 
-GitHub: https://github.com/your-username
-
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/in/jidnyasathakre/
 
 ---
-
-## ⭐ Support
-
-If you found this project helpful, consider giving this repository a ⭐ on GitHub.
-
-It helps others discover the project and motivates further development.
-
----
-
-### Built with ❤️ using Python, OpenCV, and Streamlit
